@@ -40,7 +40,7 @@ $$g'(x) \approx \frac{g(x + \epsilon) - g(x)}{\epsilon}$$
 gcc main.c -lm -o trainer
 
 # Simply open index.html in any modern web browser. Type a value into the input field and hit "Click Me" to trigger the neuron's feedforward mechanism.
-
+```
 
 # Disclaimer: This is a toy educational project designed to showcase algorithmic fundamentals, not meant for production multi-dimensional data classification.
 
